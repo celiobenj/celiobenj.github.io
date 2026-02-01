@@ -28,7 +28,8 @@
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <!-- <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li> -->
+<li class="author__desktop"><a href="{{ author.employer_page }}" target="_blank"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -73,6 +74,9 @@
       {% endif %}
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
+      {% endif %}
+      {% if author.lattes %}
+        <li><a href="{{ author.lattes }}" target="_blank"><i class="ai ai-lattes ai-fw icon-pad-right"></i>Lattes</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
