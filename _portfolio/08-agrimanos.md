@@ -1,5 +1,5 @@
 ---
-title: "AGRIMÁNOS: telemetria agrícola"
+title: "AGRIMANOS: telemetria agrícola"
 excerpt: "Trabalho de conclusão do curso técnico, premiado na Feira de Tecnologia e Inovação da FMM 2023."
 collection: portfolio
 ---
