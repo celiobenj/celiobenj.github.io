@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Olá! Sou o Célio Benjamim, estudante de **Engenharia da Computação** na [Escola Superior de Tecnologia](https://www.uea.edu.br/index.php/escola-superior-de-tecnologia/) da [Universidade do Estado do Amazonas](https://www.uea.edu.br/) (EST/UEA). Também sou técnico em **Mecatrônica** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/).
+Olá! Sou o Célio Benjamim, estudante de **Engenharia de Computação** na [Escola Superior de Tecnologia](https://www.uea.edu.br/index.php/escola-superior-de-tecnologia/) da [Universidade do Estado do Amazonas](https://www.uea.edu.br/) (EST/UEA), com previsão de conclusão em 2028/2. Também sou técnico em **Mecatrônica** pela [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br/).
 
-Os meus principais campos de estudo e interesse técnico são: **Sistemas Embarcados**, **Robótica**, **IoT** e **Microcontroladores**.
+Meus principais campos de estudo e de interesse técnico são **Sistemas Embarcados**, **Robótica**, **IoT**, **Microcontroladores** e **Inteligência Artificial** aplicada à visão computacional.
 
-Atualmente, concentro as minhas atividades nas seguintes áreas:
+Atualmente, concentro minhas atividades nas seguintes frentes:
 
-* **Liderança Técnica no GEAR:** Sou líder de desenvolvimento de Sistemas Embarcados no grupo de robótica da UEA ([GEAR](https://github.com/GEAR-EST)). Nessa função, sou responsável por capacitar os membros e garantir a excelência técnica nos campos de Programação e Eletrônica, em tópicos como: Programação de Microcontroladores, aplicação de Padrões de Projeto no GitHub, Eletrônica voltada para a criação de Placas de Circuito Impresso (PCB) e Soldagem Eletrônica.
+* **Liderança técnica no GEAR:** sou líder da área de Programação e líder técnico da equipe do Seguidor de Linha no grupo de robótica da UEA ([GEAR](https://github.com/GEAR-EST)). Atuo na definição da arquitetura de firmware, no controle em tempo real (PID e FreeRTOS no ESP32), na padronização de código e na capacitação dos membros. Em 2026, o robô Zé-Guia conquistou o 1º lugar na categoria Seguidor de Linha da competição de robótica da FUCAPI.
 
-* **Mentoria STEM:** Atuo como mentor nos cursos de Robótica Básica, STEM e Indústria 4.0 para alunos do Ensino Médio de Manaus, através do projeto [STEM Criar](https://instagram.com/stemcriar). Nesta iniciativa, levamos um laboratório móvel às escolas para ensinar os conceitos fundamentais de robótica durante três dias, finalizando com o desenvolvimento prático de um braço robótico em conjunto com os alunos. O projeto conta com o apoio da [Samsung Eletrônica da Amazônia](https://www.samsung.com/br/).
+* **Mentoria STEM:** sou Aluno Mentor e bolsista do [STEM Criar](https://instagram.com/stemcriar), projeto apoiado pela [Samsung Eletrônica da Amazônia](https://www.samsung.com/br/). Conduzo oficinas de robótica, sistemas embarcados e visão computacional para alunos do Ensino Médio da rede pública de Manaus, em laboratórios móveis levados às escolas.
 
-* **Iniciação Científica:** Desenvolvo um projeto de Iniciação Científica intitulado "Projeto de Módulo IoT para Sistemas Embarcados Baseados em Arduino". O objetivo principal é desenvolver um *framework* de configuração dinâmica de rede para soluções de Internet das Coisas (IoT). Esta pesquisa é fomentada pelo [PAIC/FAPEAM](https://www.fapeam.am.gov.br/programas/paic-programa-de-apoio-a-iniciacao-cientifica-do-amazonas/).
+* **Pesquisa em Inteligência Artificial:** atuo como pesquisador voluntário na UEA, com experimentação em redes neurais convolucionais (transfer learning e fine-tuning), validação cruzada em bases de imagens de grande porte e ajuste fino de detectores de objetos YOLO.
+
+* **Produção científica:** concluí, em 07/2026, a Iniciação Científica "Projeto de Módulo IoT para Sistemas Embarcados Baseados em Arduino" (PAIC/FAPEAM), que resultou em um *framework* de configuração dinâmica de rede para soluções de IoT, apresentado no 5º ENAEPE/UEA. Também sou coautor de um resumo estendido apresentado no LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO 2026).
+
+Para mais detalhes, consulte meu [currículo](/cv/), meu [portfólio de projetos](/portfolio/) e minhas [publicações](/publications/).
