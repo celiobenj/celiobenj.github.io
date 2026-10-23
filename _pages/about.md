@@ -19,6 +19,6 @@ Atualmente, concentro minhas atividades nas seguintes frentes:
 
 * **Pesquisa em Inteligência Artificial:** atuo como pesquisador voluntário na UEA, com experimentação em redes neurais convolucionais (transfer learning e fine-tuning), validação cruzada em bases de imagens de grande porte e ajuste fino de detectores de objetos YOLO.
 
-* **Produção científica:** concluí, em 07/2026, a Iniciação Científica "Projeto de Módulo IoT para Sistemas Embarcados Baseados em Arduino" (PAIC/FAPEAM), que resultou em um *framework* de configuração dinâmica de rede para soluções de IoT, apresentado no 5º ENAEPE/UEA. Também sou coautor de um resumo estendido apresentado no LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO 2026).
+* **Produção científica:** concluí, em 07/2026, a Iniciação Científica ["Projeto de Módulo IoT para Sistemas Embarcados Baseados em Arduino"](https://github.com/celiobenj/modulo-iot) (PAIC/FAPEAM), sob orientação do Prof. Dr. Rodrigo Farias Araújo, que resultou em um *framework* de configuração dinâmica de rede para soluções de IoT, apresentado no 5º ENAEPE/UEA. Também sou coautor de um resumo estendido apresentado no LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO 2026).
 
 Para mais detalhes, consulte meu [currículo](/cv/), meu [portfólio de projetos](/portfolio/) e minhas [publicações](/publications/).

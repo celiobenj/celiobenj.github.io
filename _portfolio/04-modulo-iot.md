@@ -4,7 +4,7 @@ excerpt: "Framework C/C++ de autoconfiguração de rede Wi-Fi para microcontrola
 collection: portfolio
 ---
 
-Resultado da Iniciação Científica PAIC/FAPEAM/UEA (08/2025 a 07/2026).
+Resultado da Iniciação Científica PAIC/FAPEAM/UEA (08/2025 a 07/2026), sob orientação do Prof. Dr. Rodrigo Farias Araújo.
 
 * Arquitetura modular com Arduino Nano e ESP-01 via UART, sem credenciais no código-fonte.
 * Portal cativo (WiFiManager), descoberta por mDNS e persistência em EEPROM.

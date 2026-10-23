@@ -8,4 +8,4 @@ date: 2026-08-10
 location: "Manaus, AM, Brasil"
 ---
 
-Apresentação final da Iniciação Científica PAIC/FAPEAM: framework C/C++ para configuração dinâmica de rede em arquitetura modular (Arduino Nano e ESP-01 via UART), com portal cativo, mDNS e persistência em EEPROM. Código aberto em [github.com/celiobenj/modulo-iot](https://github.com/celiobenj/modulo-iot).
+Apresentação final da Iniciação Científica PAIC/FAPEAM, orientada pelo Prof. Dr. Rodrigo Farias Araújo: framework C/C++ para configuração dinâmica de rede em arquitetura modular (Arduino Nano e ESP-01 via UART), com portal cativo, mDNS e persistência em EEPROM. Código aberto em [github.com/celiobenj/modulo-iot](https://github.com/celiobenj/modulo-iot).

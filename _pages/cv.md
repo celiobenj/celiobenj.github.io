@@ -54,6 +54,7 @@ Pesquisa e produção científica
   * Validação cruzada leave-one-subject-out (LOSO) em bases de imagens de grande porte, para avaliar acurácia, generalização e overfitting.
   * Ajuste fino e avaliação de detectores de objetos YOLO26 em conjuntos de dados customizados.
 * **Iniciação Científica PAIC/FAPEAM (bolsista, UEA)**, 08/2025 – 07/2026
+  * Orientador: Prof. Dr. Rodrigo Farias Araújo.
   * Projeto de Módulo IoT para Sistemas Embarcados Baseados em Arduino: framework C/C++ para configuração dinâmica de rede (Arduino Nano e ESP-01 via UART), com portal cativo, mDNS e persistência em EEPROM. Código aberto em [github.com/celiobenj/modulo-iot](https://github.com/celiobenj/modulo-iot).
   * Apresentação final no 5º ENAEPE/UEA (10 a 12/08/2026).
 * **LVIII Simpósio Brasileiro de Pesquisa Operacional (SBPO 2026)**, Belo Horizonte/MG
