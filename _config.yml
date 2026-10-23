@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "celiobenj"
 title_separator          : "-"
 name                     : &name "Célio Benjamim"
-description              : &description "Portifólio de Célio Benjamim"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Site acadêmico e portfólio de Célio Benjamim"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://celiobenj.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Célio Benjamim"
   pronouns         : # example: "she/her"  
-  bio              : "Estudante de Engenharia da Computação, técnico em Mecatrônica e Líder de Sistemas Embarcados no <a href='https://github.com/GEAR-EST' target='_blank'>Grupo de Estudos Aplicados à Robótica (GEAR)</a>."
+  bio              : "Estudante de Engenharia da Computação, técnico em Mecatrônica, líder de Programação e líder técnico do Seguidor de Linha no <a href='https://github.com/GEAR-EST' target='_blank'>Grupo de Estudos Aplicados à Robótica (GEAR)</a>."
   location         : "Manaus, AM, Brasil"
   employer         : "UEA - Uni. do Estado do Amazonas"
   employer_page    : "https://www.uea.edu.br/"
@@ -87,11 +87,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Livros'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Artigos em periódicos'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Trabalhos em congressos'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
